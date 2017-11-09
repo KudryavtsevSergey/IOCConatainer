@@ -1,0 +1,5 @@
+E:\Работы\СПП\labaratory5\IOCContainer\obj\Debug\IOCContainer.csproj.CoreCompileInputs.cache
+E:\Работы\СПП\labaratory5\IOCContainer\bin\Debug\IOCContainer.pdb
+E:\Работы\СПП\labaratory5\IOCContainer\obj\Debug\IOCContainer.dll
+E:\Работы\СПП\labaratory5\IOCContainer\obj\Debug\IOCContainer.pdb
+e:\Работы\СПП\labaratory5\IOCContainer\bin\Debug\IOCContainer.dll

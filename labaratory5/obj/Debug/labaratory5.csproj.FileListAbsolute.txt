@@ -1,0 +1,9 @@
+e:\Работы\СПП\labaratory5\labaratory5\bin\Debug\labaratory5.exe.config
+e:\Работы\СПП\labaratory5\labaratory5\bin\Debug\labaratory5.exe
+e:\Работы\СПП\labaratory5\labaratory5\bin\Debug\labaratory5.pdb
+e:\Работы\СПП\labaratory5\labaratory5\obj\Debug\labaratory5.csprojResolveAssemblyReference.cache
+e:\Работы\СПП\labaratory5\labaratory5\obj\Debug\labaratory5.csproj.CoreCompileInputs.cache
+e:\Работы\СПП\labaratory5\labaratory5\obj\Debug\labaratory5.exe
+e:\Работы\СПП\labaratory5\labaratory5\obj\Debug\labaratory5.pdb
+e:\Работы\СПП\labaratory5\labaratory5\bin\Debug\IOCContainer.dll
+e:\Работы\СПП\labaratory5\labaratory5\bin\Debug\IOCContainer.pdb
